@@ -11,3 +11,7 @@
 *pandas*
 
 *beautiful soup*
+
+## Результат
+Ссылка на интерактивный дашборд Tableau
+https://public.tableau.com/app/profile/anna7988/viz/LinkedInDataAnalyticsVacancies/Dashboard1?publish=yes
