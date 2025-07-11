@@ -14,4 +14,6 @@
 
 ## Результат
 Ссылка на интерактивный дашборд Tableau
+
+К сожалению ссылка tableau в России больше не работает
 https://public.tableau.com/app/profile/anna7988/viz/LinkedInDataAnalyticsVacancies/Dashboard1?publish=yes
